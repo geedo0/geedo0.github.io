@@ -17,3 +17,5 @@ linkedin_username: gerardo-ravago
 theme: minima
 plugins:
   - jekyll-feed
+exclude:
+  - README.md
